@@ -1,0 +1,27 @@
+{
+	"info": {
+		"_postman_id": "759c9e4b-7a06-43f6-a5b8-b4540cdb4502",
+		"name": "API_MANAJEMEN_FILM",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48009316",
+		"_collection_link": "https://danydarmawan04-3949338.postman.co/workspace/Dany-Darmawan's-Workspace~858c0208-737e-47d8-8124-d2ca5c2bb71c/collection/48009316-759c9e4b-7a06-43f6-a5b8-b4540cdb4502?action=share&source=collection_link&creator=48009316"
+	},
+	"item": [
+		{
+			"name": "FILM",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "directory",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
